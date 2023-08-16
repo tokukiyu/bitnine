@@ -14,7 +14,7 @@ Welcome to this repository, which serves as the solution for the BitNine test qu
 
 Feel free to navigate into each directory to access the specific solutions and follow the provided instructions. If you have any questions or need further assistance, please don't hesitate to reach out.
 
-Thank you for considering this repository, and we hope it proves helpful for your evaluation.
+Thank you for considering this repository, and I hope it proves helpful for your evaluation.
 
 Best regards,
 Tokuma Abdisa
