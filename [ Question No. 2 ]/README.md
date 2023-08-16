@@ -6,7 +6,6 @@ F(n) = F(n-3) + F(n -2) where F(0) = 0, F(1) = 1, and F(2) = 2. Assume that n wi
 
 
 
-```
 # Piecewise Recurrence Relation Implementation in C
 
 This repository contains C code to compute the value of the piecewise recurrence relation F(n) = F(n-3) + F(n-2), with initial conditions F(0) = 0, F(1) = 1, and F(2) = 2.
@@ -74,6 +73,3 @@ Suppose you want to calculate F(10). Follow these steps:
 
 - If you encounter any issues or have questions, please feel free to open an issue in this repository.
 
-```
-
-Please note that this README is just a template and you can modify it to match your specific project structure, development environment, and additional information you might want to provide.
